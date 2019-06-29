@@ -1,0 +1,69 @@
+{
+	"results": [{
+		"address_components": [{
+				"long_name": "955",
+				"short_name": "955",
+				"types": [" street_number"]
+			},
+			{
+				"long_name": "Avenida calle 72",
+				"short_name": "Ac 72",
+				"types": [" route"]
+			},
+			{
+				"long_name": "Chapinero",
+				"short_name": "Chapinero",
+				"types": [" political", "sublocality", "sublocality_level_1"]
+			},
+			{
+				"long_name": "Bogotá",
+				"short_name": "Bogotá",
+				"types": [" locality", "political"]
+			},
+			{
+				"long_name": "Colombia",
+				"short_name": "Col",
+				"types": ["country", "political"]
+			},
+			{
+				"long_name": "110221",
+				"short_name": "110221",
+				"types": ["postal_code"]
+			}
+		],
+		"formatted_address": "Ac 72 #9-55, Bogotá, Colombia",
+		"geometry": {
+			"bounds": {
+				"northeast": {
+					"lat": 4.6563044,
+					"lng": -74.05735199999999
+				},
+				"southwest": {
+					"lat": 4.656288700000001,
+					"lng": -74.05735199999999
+				}
+			},
+			"location": {
+				"lat": 4.6563044,
+				"lng": -74.05600811970849
+			},
+			"location_type": "RANGE_INTERPOLATED",
+			"viewport": {
+				"northeast": {
+					"lat": 4.65764553029503,
+					"lng": -74.05600811970849
+				},
+				"southwest": {
+					"lat": 4.654947569708498,
+					"lng": -74.05870608029151
+				}
+			}
+		},
+		"partial_match": true,
+		"place_id": "AIzaSyAxm816Nc6dU7EtqzkYUMoDFlRH5DsXmqE",
+		"type": ["street_address"]
+	}],
+	"status": "OK",
+  "resolverJsonModule": verdadero,
+  "esModuleInterop": true
+}
